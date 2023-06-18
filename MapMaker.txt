@@ -1,0 +1,9 @@
+Cuenta en mapbox
+
+Email: davidsilvabravo@gmail.com
+User: davidsilvabravo
+Pass: DavidMapbox123!!
+
+accessToken:
+pk.eyJ1IjoiZGF2aWRzaWx2YWJyYXZvIiwiYSI6ImNsaXV5YngydDJ4MXAzZmxnaWttaTNuMzIifQ.00hnLGUQGXQSZyffjuTzbQ
+
